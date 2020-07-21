@@ -4,9 +4,9 @@
   "description": "",
   "main": "inex.js",
   "dependencies": {
-    "mkdirp": "^1.0.4",
-    "request": "^2.88.2",
-    "slug": "^3.3.2"
+    "mkdirp": "^0.5.1",
+    "request": "^2.67.0",
+    "slug": "^0.9.1"
   },
   "devDependencies": {},
   "scripts": {
